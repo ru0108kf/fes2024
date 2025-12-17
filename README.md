@@ -11,7 +11,7 @@
 - 様々な住まいや、住民の健康的な暮らしを促進するためのプログラム、空間を持続可能性を踏まえて提案してください。
 
 ### パラメータ/拘束条件
-<img align="right" width="100" src="image/image1.png">
+<img align="right" width="500" src="image/image1.png">
 
 - 住戸数　１００住戸
 - 住戸パターン数（４種類）
