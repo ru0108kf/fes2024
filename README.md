@@ -1,6 +1,7 @@
 # 100世帯が暮らす傾斜地の集合住宅
 
 情報建築学会fes2024でのレポート
+ファイルは、動線分析のみ。
 
 [TutorialMarathon](https://www.youtube.com/live/Xx6kCp-JjZA?feature=shared&t=3475)
 
