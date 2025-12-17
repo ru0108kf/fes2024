@@ -137,6 +137,7 @@ https://onni.com/evelyn/architecture/
 ![image13.png](image/image13.png)
 
 動線と、住戸の配置のダイアグラム動画
+
 <video src="image/diagram.mp4" controls loop autoplay muted></video>
 
 ## Step +α　拡張性とアクティビティ
