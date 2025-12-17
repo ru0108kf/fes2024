@@ -27,7 +27,7 @@
 
 Stepに従って、設計を進めます。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9a9f7002-2ff6-47c1-916d-2a83368215e5/30653864-5895-4fe6-84c0-130a6fe9839d/4f0bd027-6117-44b1-a6dd-0fb1627280ec.png)
+![image.png](image/image1.png)
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9a9f7002-2ff6-47c1-916d-2a83368215e5/e2ff8019-30ef-499d-ba35-3d8d589175b7/b2e07980-4dea-4697-930a-45e44c4356c8.png)
 
