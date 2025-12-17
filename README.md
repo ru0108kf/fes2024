@@ -144,14 +144,23 @@ https://onni.com/evelyn/architecture/
 
 住戸の空間を埋めるように、山間部ならではのアクティビティも楽しめる空間を考えました。
 
-<img src="image/image14.png" width="200">
-<img src="image/image15.png" width="200">
+![image13.png](image/image14.png)
+![image13.png](image/image15.png)
 
+<table>
+  <tr>
+    <td><img src="image/image16.png"></td>
+    <td><img src="image/image17.png"></td>
+  </tr>
+</table>
 ## まとめ
 
 なかなか1週間で、まとめ切るのに苦労しました。僕の担当は動線アルゴリズムだったので、それを前面に押し出して行けたのはよかったなと思ってます。下の画像を見てわかる通り、このアルゴリズム通りに道に幅を追加して引くと、あり得ない角度のものや急カーブが生じるので現実的ではなかったです。そこもちょっと、講評会で指摘されました。プレゼンで、ボリューム配置から住戸生成の過程のアルゴリズムを説明できてなかったのはマイナスポイントですね。自動で住戸が配置されるというのは一番面白いポイントだったのに、住戸配置に頭が行っちゃってて、完全に忘れてました。そもそもの課題を知らない人に対してあまり優しくないプレゼンだったと思います。あと、自分はかなりえーとって言っちゃてて後から見返してかなり聞きづらい説明ですね。反省です。寝てなくて頭が回ってないっていうのもあるんだけど。
 
 講評であった、下りのアルゴリズムもまた機会があれば考えてみたい。
-
-<img src="image/image16.png" width="200">
-<img src="image/image17.png" width="200">
+<table>
+  <tr>
+    <td><img src="image/image18.png"></td>
+    <td><img src="image/image19.png"></td>
+  </tr>
+</table>
