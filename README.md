@@ -138,16 +138,14 @@ https://onni.com/evelyn/architecture/
 
 動線と、住戸の配置のダイアグラム動画
 
-<video src="image/diagram.mp4" controls loop autoplay muted></video>
+![diagram](image/diagram.gif)
 
 ## Step +α　拡張性とアクティビティ
 
 住戸の空間を埋めるように、山間部ならではのアクティビティも楽しめる空間を考えました。
 
-![image14.png](image/image14.png)
-
-![image15.png](image/image15.png)
-
+<img src="image/image14.png" width="200">
+<img src="image/image15.png" width="200">
 
 ## まとめ
 
@@ -155,6 +153,5 @@ https://onni.com/evelyn/architecture/
 
 講評であった、下りのアルゴリズムもまた機会があれば考えてみたい。
 
-![image16.png](image/image16.png)
-
-![image17.png](image/image17.png)
+<img src="image/image16.png" width="200">
+<img src="image/image17.png" width="200">
